@@ -9,6 +9,8 @@
 первый абзац
 
 ---
+![pic_of_nature](https://belradio.net/wp-content/uploads/2019/10/vspjb8cc5wxheixgc52g-46yjfo.jpg)
+
 
 второй абзац
 
